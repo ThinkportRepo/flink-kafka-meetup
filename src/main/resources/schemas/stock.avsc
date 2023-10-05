@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "name": "Stock",
+  "namespace": "digital.thinkport",
+  "fields": [
+    {
+      "name": "currentPrice",
+      "type": "int"
+    },
+    {
+      "name": "symbol",
+      "type": "string"
+    },
+    {
+      "name": "companyName",
+      "type": "string"
+    },
+    {
+      "name": "timestamp",
+      "type": "long"
+    }
+  ]
+}

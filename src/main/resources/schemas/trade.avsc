@@ -1,0 +1,19 @@
+{
+  "type": "record",
+  "name": "Trade",
+  "namespace": "digital.thinkport",
+  "fields": [
+    {
+      "name": "numberOfStocks",
+      "type": "int"
+    },
+    {
+      "name": "symbol",
+      "type": "string"
+    },
+    {
+      "name": "typeOfTransaction",
+      "type": "string"
+    }
+  ]
+}

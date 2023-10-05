@@ -1,0 +1,37 @@
+{
+  "connect.name": "digital.thinkport.User",
+  "fields": [
+    {
+      "name": "firstName",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "lastName",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "age",
+      "type": [
+        "null",
+        "int"
+      ]
+    },
+    {
+      "name": "favouritePokemonId",
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  ],
+  "name": "User",
+  "namespace": "digital.thinkport",
+  "type": "record"
+}
+
